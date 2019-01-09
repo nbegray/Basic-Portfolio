@@ -1,0 +1,71 @@
+h1 {
+  background-color: #4aaaa5;
+  width: 25%;
+  padding: 0;
+  margin: 0;
+  line-height: 200px;
+  font-size: 24px;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  float: left;
+  
+  
+  
+  
+  }
+  
+  #name { 
+      color: black
+  
+  
+  }
+  .container {
+      
+      color: gainsboro
+  
+  }
+  
+  body { 
+      padding: 0;
+      margin: 0;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 18px;
+      line-height: 255%;
+      color: #333333;
+      background-color: #efeee7;
+  }
+  
+  header {
+      background-color: #333333;
+      color: #eee;
+      font-size: 28px;
+      padding: 5;
+      margin: 15;
+  }
+  
+  h2 {
+      font-size: 24px;
+      margin: 0 auto;
+      
+      
+  
+  }
+  #main-bio {
+      float: left;
+      width: 70%;
+      margin: 50;
+      padding: 0;
+  }
+  
+  #contact-info {
+      float:left;
+      width: 30%;
+      margin: 30;
+      padding: 0;
+      line-height: 1.5(28px);
+  
+  }
+  
+  #bio-image {
+      float: left;
+      width: 200;
+  }
